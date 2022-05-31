@@ -1,0 +1,10 @@
+C:\Users\Cimorexave\Desktop\fractionCalculator\farctionCalculator\farctionCalculator\bin\Debug\farctionCalculator.exe.config
+C:\Users\Cimorexave\Desktop\fractionCalculator\farctionCalculator\farctionCalculator\bin\Debug\farctionCalculator.exe
+C:\Users\Cimorexave\Desktop\fractionCalculator\farctionCalculator\farctionCalculator\bin\Debug\farctionCalculator.pdb
+C:\Users\Cimorexave\Desktop\fractionCalculator\farctionCalculator\farctionCalculator\obj\Debug\farctionCalculator.csproj.AssemblyReference.cache
+C:\Users\Cimorexave\Desktop\fractionCalculator\farctionCalculator\farctionCalculator\obj\Debug\farctionCalculator.Form1.resources
+C:\Users\Cimorexave\Desktop\fractionCalculator\farctionCalculator\farctionCalculator\obj\Debug\farctionCalculator.Properties.Resources.resources
+C:\Users\Cimorexave\Desktop\fractionCalculator\farctionCalculator\farctionCalculator\obj\Debug\farctionCalculator.csproj.GenerateResource.cache
+C:\Users\Cimorexave\Desktop\fractionCalculator\farctionCalculator\farctionCalculator\obj\Debug\farctionCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Cimorexave\Desktop\fractionCalculator\farctionCalculator\farctionCalculator\obj\Debug\farctionCalculator.exe
+C:\Users\Cimorexave\Desktop\fractionCalculator\farctionCalculator\farctionCalculator\obj\Debug\farctionCalculator.pdb
